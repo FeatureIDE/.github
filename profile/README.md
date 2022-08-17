@@ -1,7 +1,3 @@
-# FeatureIDE Organization
-
-This organization hosts all projects related to the development of FeatureIDE and FeatJAR.
-
 ## FeatureIDE
 
 [FeatureIDE](https://github.com/FeatureIDE/FeatureIDE), [featureide.github.io](https://github.com/FeatureIDE/featureide.github.io)
