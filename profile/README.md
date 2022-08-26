@@ -1,7 +1,2 @@
-## FeatureIDE
-
-[FeatureIDE](https://github.com/FeatureIDE/FeatureIDE), [featureide.github.io](https://github.com/FeatureIDE/featureide.github.io)
-
-## Standalone Projects
-
-[Antenna](https://github.com/FeatureIDE/Antenna), [fuji](https://github.com/FeatureIDE/fuji), [featurehouse](https://github.com/FeatureIDE/featurehouse)
+* [FeatureIDE](https://github.com/orgs/FeatureIDE/repositories?q=FeatureIDE): An extensible framework for feature-oriented software development 
+* [FeatJAR](https://github.com/orgs/FeatureIDE/repositories?q=FeatJAR): Java libraries for feature-oriented software development 
